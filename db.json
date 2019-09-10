@@ -1,103 +1,103 @@
 {
-  "activeTags": [],
-  "allTags": [
+  activeTags: [],
+  allTags: [
     {
-      "id": 1,
-      "name": "In Review",
-      "slug": "tag1",
-      "color": "#FCF09A"
+      id: 1,
+      name: "In Review",
+      slug: "tag1",
+      color: "#FCF09A"
     },
     {
-      "id": 2,
-      "name": "Completed",
-      "slug": "tag2",
-      "color": "#FF99A5"
+      id: 2,
+      name: "Completed",
+      slug: "tag2",
+      color: "#FF99A5"
     },
     {
-      "id": 3,
-      "name": "Reviewed",
-      "slug": "tag3",
-      "color": "#A4C7EB"
+      id: 3,
+      name: "Reviewed",
+      slug: "tag3",
+      color: "#A4C7EB"
     },
     {
-      "id": 4,
-      "name": "Boltzman Machines",
-      "slug": "tag4",
-      "color": "#A9F0F2"
+      id: 4,
+      name: "Boltzman Machines",
+      slug: "tag4",
+      color: "#A9F0F2"
     },
     {
-      "id": 5,
-      "name": "Cycle GAN",
-      "slug": "tag5",
-      "color": "#A8F0BA"
+      id: 5,
+      name: "Cycle GAN",
+      slug: "tag5",
+      color: "#A8F0BA"
     }
   ],
-  "projectOptions": [
+  projectOptions: [
     {
-      "id": "1",
-      "customLabelClass": "customLabelClass",
-      "label": "Artificial intellignce in farming",
-      "customClass": "background-yellow"
+      id: "1",
+      customLabelClass: "customLabelClass",
+      label: "Artificial intellignce in farming",
+      customClass: "background-yellow"
     },
     {
-      "id": "2",
-      "customLabelClass": "customLabelClass",
-      "label": "Globalization in advances mathamatics",
-      "customClass": "background-green"
+      id: "2",
+      customLabelClass: "customLabelClass",
+      label: "Globalization in advances mathamatics",
+      customClass: "background-green"
     },
     {
-      "id": "3",
-      "customLabelClass": "customLabelClass",
-      "label": "Semantic search in Big-data methonds"
+      id: "3",
+      customLabelClass: "customLabelClass",
+      label: "Semantic search in Big-data methonds"
     },
     {
-      "id": "4",
-      "customLabelClass": "customLabelClass",
-      "label": "Advanced machine learing concepts "
+      id: "4",
+      customLabelClass: "customLabelClass",
+      label: "Advanced machine learing concepts "
     },
     {
-      "id": "5",
-      "customLabelClass": "customLabelClass",
-      "label": "Scientific approch to newton’s laws"
+      id: "5",
+      customLabelClass: "customLabelClass",
+      label: "Scientific approch to newton’s laws"
     },
     {
-      "id": "6",
-      "customLabelClass": "customLabelClass",
-      "label": "Graphical illustration of bohr’s law"
+      id: "6",
+      customLabelClass: "customLabelClass",
+      label: "Graphical illustration of bohr’s law"
     }
   ],
-  "literatureOptions": [
+  literatureOptions: [
     {
-      "id": "Artificial intellignce in farming",
-      "customLabelClass": "customLabelClass",
-      "label": "Artificial intellignce in farming",
-      "customClass": "background-yellow"
+      id: "Artificial intellignce in farming",
+      customLabelClass: "customLabelClass",
+      label: "Artificial intellignce in farming",
+      customClass: "background-yellow"
     },
     {
-      "id": "Globalization in advances mathamatics",
-      "customLabelClass": "customLabelClass",
-      "label": "Globalization in advances mathamatics",
-      "customClass": "background-green"
+      id: "Globalization in advances mathamatics",
+      customLabelClass: "customLabelClass",
+      label: "Globalization in advances mathamatics",
+      customClass: "background-green"
     },
     {
-      "id": "Semantic search in Big-data methonds",
-      "customLabelClass": "customLabelClass",
-      "label": "Semantic search in Big-data methonds"
+      id: "Semantic search in Big-data methonds",
+      customLabelClass: "customLabelClass",
+      label: "Semantic search in Big-data methonds"
     },
     {
-      "id": "Advanced machine learing concepts ",
-      "customLabelClass": "customLabelClass",
-      "label": "Advanced machine learing concepts "
+      id: "Advanced machine learing concepts ",
+      customLabelClass: "customLabelClass",
+      label: "Advanced machine learing concepts "
     },
     {
-      "id": "Scientific approch to newton’s laws",
-      "customLabelClass": "customLabelClass",
-      "label": "Scientific approch to newton’s laws"
+      id: "Scientific approch to newton’s laws",
+      customLabelClass: "customLabelClass",
+      label: "Scientific approch to newton’s laws"
     },
     {
-      "id": "Graphical illustration of bohr’s law",
-      "customLabelClass": "customLabelClass",
-      "label": "Graphical illustration of bohr’s law"
+      id: "Graphical illustration of bohr’s law",
+      customLabelClass: "customLabelClass",
+      label: "Graphical illustration of bohr’s law"
     }
   ]
 }
